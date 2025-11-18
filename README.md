@@ -1,17 +1,44 @@
 <!--- banner --->
-<img src="https://i.ibb.co.com/sJzbwQSg/cover-photo.png" alt="Banner">
+<img src="./azizurrbappy.png" alt="Banner">
 
-<br>
-
+<!--- header --->
 <h1 align="center">Hi 👋, I'm Azizur Rahman Bappy</h1>
 <h3 align="center">I’m a Mearn Stack Web developer passionate about making error-free websites.</h3>
 
-- 🖥️ I’m currently working on **Html, Css, React.js for frontend development.**
+<br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/mebappy10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mebappy10" height="30" width="40" /></a>
-</p>
+- 👋 Hi, I’m **[@azizurrbappy](https://github.com/azizurrbappy)**
+- 🖥️ I’m currently working on **HTML, CSS, React.js** for frontend development.
+- 🗄️ Using **Node.js, Express.js, MongoDB** for the backend.
+- 💬 Ask me about **Mearn-Stack (React, Node, Express, MongoDB)**.
+- 🌐 Explore My Portfolio **[Azizur Rahman Bappy]()** and My **[Resume]()**
+- 📝 I regularly write articles on **[LinkedIn]()**
+- 📫 Feel free to reach me out **[Email](azizurr.bappy@gmail.com)**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## Technology Stack:
+
+#### Languages:
+[![Languages](https://skillicons.dev/icons?i=html,css,javascript)](https://github.com/azizurrbappy)
+
+#### CSS And JavaScript Frameworks & Libraries:
+[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind,react,nodejs,express)](https://github.com/azizurrbappy)
+
+#### Database & Model:
+[![Database & Model](https://skillicons.dev/icons?i=mongodb)](https://github.com/azizurrbappy)
+
+#### Deployment Platform:
+[![Deployment Platform](https://skillicons.dev/icons?i=vercel,netlify,firebase)](https://github.com/azizurrbappy)
+
+#### Design & Graphics:
+[![Design & Graphics](https://skillicons.dev/icons?i=figma,ai,ps)](https://github.com/azizurrbappy)
+
+#### Tools & Technologies:
+[![Tools & Technologies](https://skillicons.dev/icons?i=windows,notion,git,github,vscode,postman)](https://github.com/azizurrbappy)
+
+<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizurrbappy&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></a>
+
+## ☕ Connect with me!
+[<img src='https://github.com/shovoalways/shovoalways/blob/main/img/facebook.png?raw=true' alt='facebook' height='40'>](https://www.facebook.com/mebappy10)  [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/instagram.png?raw=true' alt='instagram' height='40'>](https://www.instagram.com/mebappy10/)  [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/linkedin.png?raw=true' alt='linkedin' height='40'>](https://www.linkedin.com/in/mebappy10/)
+
+## 📧 For Business Inquiries 
+✅  ► azizurr.bappy@gmail.com
