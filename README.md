@@ -10,7 +10,7 @@
 - 👋 Hi, I’m **[@azizurrbappy](https://github.com/azizurrbappy)**
 - 🖥️ I’m currently working on **HTML, CSS, React.js** for frontend development.
 - 🗄️ Using **Node.js, Express.js, MongoDB** for the backend.
-- 💬 Ask me about **Mearn-Stack (React, Node, Express, MongoDB)**.
+- 💬 Ask me about **Mern-Stack (React, Node, Express, MongoDB)**.
 - 🌐 Explore My Portfolio **[Azizur Rahman Bappy]()** and My **[Resume]()**
 - 📝 I regularly write articles on **[LinkedIn]()**
 - 📫 Feel free to reach me out **[Email](azizurr.bappy@gmail.com)**
