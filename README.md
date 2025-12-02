@@ -3,7 +3,7 @@
 
 <!--- header --->
 <h1 align="center">Hi 👋, I'm Azizur Rahman Bappy</h1>
-<h3 align="center">I’m a Mearn Stack Web developer passionate about making error-free websites.</h3>
+<h3 align="center">I’m a Mern Stack web developer passionate about making error-free websites.</h3>
 
 <br>
 
