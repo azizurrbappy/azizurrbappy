@@ -11,8 +11,8 @@
 - 🖥️ I’m currently working on **HTML, CSS, React.js** for frontend development.
 - 🗄️ Using **Node.js, Express.js, MongoDB** for the backend.
 - 💬 Ask me about **Mern-Stack (React, Node, Express, MongoDB)**.
-- 🌐 Explore My Portfolio **[Azizur Rahman Bappy]()** and My **[Resume]()**
-- 📝 I regularly write articles on **[LinkedIn]()**
+- 🌐 Explore My Portfolio **[Azizur Rahman Bappy]()** and My **[Resume](https://drive.google.com/file/d/1ESfc2ihf5d1m4eI4h9CzErVafU-fJSn0/view?usp=sharing)**
+- 📝 I regularly write articles on **[LinkedIn](https://www.linkedin.com/in/azizurrbappy/)**
 - 📫 Feel free to reach me out **[Email](azizurr.bappy@gmail.com)**
 
 ## Technology Stack:
