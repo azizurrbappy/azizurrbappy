@@ -15,6 +15,13 @@
 - 📝 I regularly write articles on **[LinkedIn](https://www.linkedin.com/in/azizurrbappy/)**
 - 📫 Feel free to reach me out **[Email](azizurr.bappy@gmail.com)**
 
+## About Me
+A passionate and results-driven Full Stack Developer with strong expertise in the MERN stack (MongoDB, Express.js,
+React.js, Node.js, Next.js), and modern frontend technologies. Seeking a challenging role where I can develop and
+deploy high-performance, scalable web applications, optimize user experiences, solve complex real-world problems,
+and contribute effectively in a collaborative, agile team environment while continuously learning emerging
+technologies.
+
 ## Technology Stack:
 
 #### Languages:
