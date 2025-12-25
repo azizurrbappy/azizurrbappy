@@ -25,7 +25,7 @@ technologies.
 ## Technology Stack:
 
 #### Languages:
-[![Languages](https://skillicons.dev/icons?i=html,css,javascript)](https://github.com/azizurrbappy)
+[![Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript)](https://github.com/azizurrbappy)
 
 #### CSS And JavaScript Frameworks & Libraries:
 [![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind,react,nodejs,express)](https://github.com/azizurrbappy)
