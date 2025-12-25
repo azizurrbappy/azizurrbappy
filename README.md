@@ -28,7 +28,7 @@ technologies.
 [![Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript)](https://github.com/azizurrbappy)
 
 #### CSS And JavaScript Frameworks & Libraries:
-[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind,react,nodejs,express)](https://github.com/azizurrbappy)
+[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind,react,nextjs,nodejs,express)](https://github.com/azizurrbappy)
 
 #### Database & Model:
 [![Database & Model](https://skillicons.dev/icons?i=mongodb)](https://github.com/azizurrbappy)
@@ -40,7 +40,7 @@ technologies.
 [![Design & Graphics](https://skillicons.dev/icons?i=figma,ai,ps)](https://github.com/azizurrbappy)
 
 #### Tools & Technologies:
-[![Tools & Technologies](https://skillicons.dev/icons?i=windows,notion,git,github,vscode,postman)](https://github.com/azizurrbappy)
+[![Tools & Technologies](https://skillicons.dev/icons?i=npm,pnpm,postman,git,github,docker,discord)](https://github.com/azizurrbappy)
 
 <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizurrbappy&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></a>
 
