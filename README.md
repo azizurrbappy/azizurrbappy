@@ -38,21 +38,6 @@ I specialize in building scalable, high-performance web applications, delivering
 #### Tools & Technologies:
 [![Tools & Technologies](https://skillicons.dev/icons?i=npm,pnpm,postman,git,github,docker,discord)](https://github.com/azizurrbappy)
 
-<!-- GitHub Stats Section -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azizurrbappy&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Bappy's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azizurrbappy&theme=dracula&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizurrbappy&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" width="60%" />
-</p>
-
-<!-- Optional Trophy (যদি চাও তাহলে যোগ করো) -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=azizurrbappy&theme=dracula&no-frame=true&margin-w=15" alt="Trophy" />
-</p>
-
 ## ☕ Let's Connect
 [<img src='https://skillicons.dev/icons?i=linkedin' alt='linkedin' height='40'>](https://www.linkedin.com/in/mebappy10/) [<img src='https://skillicons.dev/icons?i=github' alt='github' height='40'>](https://github.com/azizurrbappy/)
 
