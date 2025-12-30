@@ -18,20 +18,25 @@
 A passionate and results-driven **Full Stack Developer** with strong expertise in the **MERN stack** (MongoDB, Express.js, React.js, Node.js) and **Next.js**.  
 I specialize in building scalable, high-performance web applications, delivering exceptional user experiences, solving complex real-world problems, and thriving in collaborative, agile team environments while continuously learning emerging technologies.
 
-## Technology Stack
+## Technology Stack:
 
 #### Languages:
 [![Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript)](https://github.com/azizurrbappy)
 
-#### Frameworks & Libraries:
-[![Frameworks](https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express)](https://github.com/azizurrbappy)
+#### CSS And JavaScript Frameworks & Libraries:
+[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind,react,nextjs,nodejs,express)](https://github.com/azizurrbappy)
 
-#### Database:
-[![Database](https://skillicons.dev/icons?i=mongodb)](https://github.com/azizurrbappy)
+#### Database & Model:
+[![Database & Model](https://skillicons.dev/icons?i=mongodb)](https://github.com/azizurrbappy)
 
-#### Deployment & Tools:
-[![Deployment](https://skillicons.dev/icons?i=vercel,netlify,firebase)](https://github.com/azizurrbappy)  
-[![Tools](https://skillicons.dev/icons?i=figma,git,github,docker,postman,npm,pnpm)](https://github.com/azizurrbappy)
+#### Deployment Platform:
+[![Deployment Platform](https://skillicons.dev/icons?i=vercel,netlify,firebase)](https://github.com/azizurrbappy)
+
+#### Design & Graphics:
+[![Design & Graphics](https://skillicons.dev/icons?i=figma,ai,ps)](https://github.com/azizurrbappy)
+
+#### Tools & Technologies:
+[![Tools & Technologies](https://skillicons.dev/icons?i=npm,pnpm,postman,git,github,docker,discord)](https://github.com/azizurrbappy)
 
 <!-- GitHub Stats Section -->
 <p align="center">
