@@ -1,51 +1,55 @@
-<!--- banner --->
-<img src="./azizurrbappy.png" alt="Banner">
+<!-- Banner - প্রথমে তোমার repo-তে azizurrbappy.png নামে ছবি আপলোড করো -->
+<!-- তারপর নিচের raw লিঙ্কটা ব্যবহার করো (যদি repo নাম azizurrbappy হয়) -->
+<img src="https://raw.githubusercontent.com/azizurrbappy/azizurrbappy/main/azizurrbappy.png" alt="Banner" width="100%">
 
-<!--- header --->
 <h1 align="center">Hi 👋, I'm Azizur Rahman Bappy</h1>
-<h3 align="center">I’m a Mern Stack web developer passionate about making error-free websites.</h3>
+<h3 align="center">Passionate MERN Stack Developer | Crafting Scalable & High-Performance Web Applications</h3>
 
 <br>
 
-- 👋 Hi, I’m **[@azizurrbappy](https://github.com/azizurrbappy)**
-- 🖥️ I’m currently working on **HTML, CSS, React.js** for frontend development.
-- 🗄️ Using **Node.js, Express.js, MongoDB** for the backend.
-- 💬 Ask me about **Mern-Stack (React, Node, Express, MongoDB)**.
-- 🌐 Explore My Portfolio **[Azizur Rahman Bappy]()** and My **[Resume](https://drive.google.com/file/d/1ESfc2ihf5d1m4eI4h9CzErVafU-fJSn0/view?usp=sharing)**
-- 📝 I regularly write articles on **[LinkedIn](https://www.linkedin.com/in/azizurrbappy/)**
-- 📫 Feel free to reach me out **[Email](azizurr.bappy@gmail.com)**
+- 🔭 Currently building **modern web apps with React, Next.js & Tailwind CSS**  
+- 🌱 Deep diving into **Next.js App Router, Server Components & TypeScript**  
+- 👨‍💻 Exploring **advanced backend patterns with Node.js & MongoDB**  
+- 💬 Ask me about **MERN Stack, Next.js, Tailwind, API Development**  
+- 📫 Reach out: **azizurr.bappy@gmail.com**  
+- 📝 Sharing tech thoughts regularly on **[LinkedIn](https://www.linkedin.com/in/azizurrbappy/)**  
 
 ## About Me
-A passionate and results-driven Full Stack Developer with strong expertise in the MERN stack (MongoDB, Express.js,
-React.js, Node.js, Next.js), and modern frontend technologies. Seeking a challenging role where I can develop and
-deploy high-performance, scalable web applications, optimize user experiences, solve complex real-world problems,
-and contribute effectively in a collaborative, agile team environment while continuously learning emerging
-technologies.
+A passionate and results-driven **Full Stack Developer** with strong expertise in the **MERN stack** (MongoDB, Express.js, React.js, Node.js) and **Next.js**.  
+I specialize in building scalable, high-performance web applications, delivering exceptional user experiences, solving complex real-world problems, and thriving in collaborative, agile team environments while continuously learning emerging technologies.
 
-## Technology Stack:
+## Technology Stack
 
 #### Languages:
 [![Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript)](https://github.com/azizurrbappy)
 
-#### CSS And JavaScript Frameworks & Libraries:
-[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind,react,nextjs,nodejs,express)](https://github.com/azizurrbappy)
+#### Frameworks & Libraries:
+[![Frameworks](https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express)](https://github.com/azizurrbappy)
 
-#### Database & Model:
-[![Database & Model](https://skillicons.dev/icons?i=mongodb)](https://github.com/azizurrbappy)
+#### Database:
+[![Database](https://skillicons.dev/icons?i=mongodb)](https://github.com/azizurrbappy)
 
-#### Deployment Platform:
-[![Deployment Platform](https://skillicons.dev/icons?i=vercel,netlify,firebase)](https://github.com/azizurrbappy)
+#### Deployment & Tools:
+[![Deployment](https://skillicons.dev/icons?i=vercel,netlify,firebase)](https://github.com/azizurrbappy)  
+[![Tools](https://skillicons.dev/icons?i=figma,git,github,docker,postman,npm,pnpm)](https://github.com/azizurrbappy)
 
-#### Design & Graphics:
-[![Design & Graphics](https://skillicons.dev/icons?i=figma,ai,ps)](https://github.com/azizurrbappy)
+<!-- GitHub Stats Section -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=azizurrbappy&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Bappy's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azizurrbappy&theme=dracula&hide_border=true" alt="GitHub Streak" width="48%" />
+</p>
 
-#### Tools & Technologies:
-[![Tools & Technologies](https://skillicons.dev/icons?i=npm,pnpm,postman,git,github,docker,discord)](https://github.com/azizurrbappy)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizurrbappy&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" width="60%" />
+</p>
 
-<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizurrbappy&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></a>
+<!-- Optional Trophy (যদি চাও তাহলে যোগ করো) -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=azizurrbappy&theme=dracula&no-frame=true&margin-w=15" alt="Trophy" />
+</p>
 
-## ☕ Connect with me!
-[<img src='https://github.com/shovoalways/shovoalways/blob/main/img/facebook.png?raw=true' alt='facebook' height='40'>](https://www.facebook.com/mebappy10)  [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/instagram.png?raw=true' alt='instagram' height='40'>](https://www.instagram.com/mebappy10/)  [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/linkedin.png?raw=true' alt='linkedin' height='40'>](https://www.linkedin.com/in/mebappy10/)
+## ☕ Let's Connect
+[<img src='https://skillicons.dev/icons?i=linkedin' alt='linkedin' height='40'>](https://www.linkedin.com/in/mebappy10/) [<img src='https://skillicons.dev/icons?i=github' alt='github' height='40'>](https://github.com/azizurrbappy/)
 
-## 📧 For Business Inquiries 
+## 📧 For Business Inquiries
 ✅  ► azizurr.bappy@gmail.com
